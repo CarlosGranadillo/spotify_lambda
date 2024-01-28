@@ -3,3 +3,7 @@
 .tf/.terraform
 
 __pycache__
+
+venv-spotify-aws/
+
+.cache
